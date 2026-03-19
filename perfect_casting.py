@@ -9,7 +9,7 @@ import time
 window_title = "Roblox"
 window = gw.getWindowsWithTitle(window_title)[0]
 
-CONFIG_BOUNDING_TOP = 60
+CONFIG_BOUNDING_TOP = 30
 CONFIG_WINDOWS_LEAP = 10
 
 CONFIG_DEBUG = True
